@@ -49,8 +49,6 @@ class Restaurante{
                 miDiv.classList.add("bg-danger");
             })
         })
-        
-        
     }
     formPedido(){
         return `
